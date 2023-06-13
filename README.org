@@ -1,0 +1,10 @@
+* slot-extra-options
+
+Extra options for slots using MOP.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/some-mthfka/slot-extra-options.git   |
+| commit  | 29517d9  |
+| systems | slot-extra-options |
+|---------+-------------------------------------------|
+
